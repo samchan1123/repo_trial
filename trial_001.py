@@ -2,4 +2,4 @@ data[10]
 
 def sample():
     global data[10]
-    data[1]=3000
+    data[1]=2000
